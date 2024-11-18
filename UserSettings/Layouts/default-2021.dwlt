@@ -126,7 +126,7 @@ MonoBehaviour:
   m_MinSize: {x: 400, y: 200}
   m_MaxSize: {x: 32384, y: 16192}
   vertical: 0
-  controlID: 114
+  controlID: 19
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -218,8 +218,8 @@ MonoBehaviour:
     y: 0
     width: 362
     height: 1067
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 276, y: 71}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 12}
   m_Panes:
   - {fileID: 12}
@@ -374,9 +374,9 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 985b0000
-    m_LastClickedID: 23448
-    m_ExpandedIDs: 00000000685b0000805b0000885b000000ca9a3b
+    m_SelectedIDs: 0e5c0000
+    m_LastClickedID: 23566
+    m_ExpandedIDs: 00000000ee5b0000085c0000105c000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -404,7 +404,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000685b0000
+    m_ExpandedIDs: 00000000ee5b0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -431,7 +431,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c6230000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -885,11 +885,11 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: -0.14932308, y: 0.8506778, z: -0.3574677, w: -0.35535732}
     speed: 2
-    m_Value: {x: -0.14931674, y: 0.8506672, z: -0.35896555, w: -0.3538552}
+    m_Value: {x: -0.14932217, y: 0.8506726, z: -0.35746554, w: -0.35535517}
   m_Size:
     m_Target: 12.515994
     speed: 2
-    m_Value: 12.531602
+    m_Value: 12.515994
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -945,10 +945,10 @@ MonoBehaviour:
     m_SaveData: []
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 52}
-      m_SelectedIDs: b225ffff
-      m_LastClickedID: -55886
-      m_ExpandedIDs: b225ffffc025ffff2afbfffff4730000127400003c740000
+      scrollPos: {x: 0, y: 0}
+      m_SelectedIDs: 
+      m_LastClickedID: 0
+      m_ExpandedIDs: 2afbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
